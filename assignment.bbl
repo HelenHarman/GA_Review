@@ -1,0 +1,56 @@
+\begin{thebibliography}{1}
+
+\bibitem{selectionMethods}
+Khalid Jebari and Mohammed Madiafi.
+\newblock Selection methods for genetic algorithms.
+\newblock {\em International Journal of Emerging Sciences}, 3(4), 2013.
+
+\bibitem{nearestPoint}
+Janne Koljonen.
+\newblock Comparison of nearest point algorithms by genetic algorithms.
+\newblock {\em Expert Systems with Applications}, 38(8):10303 -- 10311, 2011.
+
+\bibitem{IB_GA}
+Fachao Li, Li~Da Xu, Chenxia Jin, and Hong Wang.
+\newblock Intelligent bionic genetic algorithm (ib-ga) and its convergence.
+\newblock {\em Expert Systems with Applications}, 38(7):8804 -- 8811, 2011.
+
+\bibitem{geneticsWebsite}
+Adam Marczyk.
+\newblock Genetic algorithms and evolutionary computation.
+\newblock Avaliable: \url{http://www.talkorigins.org/faqs/genalg/genalg.html},
+  2004.
+\newblock Accessed: [06 October 2015].
+
+\bibitem{MitchellBook}
+Thomas~M. Mitchell.
+\newblock {\em Machine Learning}.
+\newblock McGraw-Hill, Inc., New York, NY, USA, 1 edition, 1997.
+
+\bibitem{montana1989training}
+David~J Montana and Lawrence Davis.
+\newblock Training feedforward neural networks using genetic algorithms.
+\newblock In {\em IJCAI}, volume~89, pages 762--767, 1989.
+
+\bibitem{BernoulliDistribution}
+Eric Weisstein.
+\newblock Bernoulli distribution.
+\newblock MathWorld A Wolfram Web Resource. Avaliable:
+  \url{http://mathworld.wolfram.com/BernoulliDistribution.html}, 2015.
+\newblock Accessed: [06 October 2015].
+
+\bibitem{MarkovChainTheory}
+Hongwei Zhang.
+\newblock Review of markov chain theory.
+\newblock Avaliable:
+  \url{http://www.cs.wayne.edu/~hzhang/courses/7290/Lectures/14\%20-\%20Review\%20of\%20Markov\%20Chain\%20Theory.pdf},
+  2015.
+\newblock Accessed: [19 October 2015].
+
+\bibitem{CloudComputing}
+Kai Zhu, Huaguang Song, Lijing Liu, Jinzhu Gao, and Guojian Cheng.
+\newblock Hybrid genetic algorithm for cloud computing applications.
+\newblock In {\em Services Computing Conference (APSCC), 2011 IEEE
+  Asia-Pacific}, pages 182--187, Dec 2011.
+
+\end{thebibliography}
